@@ -1,83 +1,29 @@
 {
-  "myAccount": [
+  "produto": [
     {
-      "name": "Wellington",
-      "lastName": "Soares",
-      "email": "wesoares90@gmail.com",
-      "id": 1
+    "id": "5bb3991a5350427ebb8140a8",
+    "idtPerson": 201525630,
+    "idtInscription": 207008510,
+    "offerType": "RECURRENT",
+    "price": "R$ 799,00/mês",
+    "creationDate": "02/10/2018 10:12:39",
+    "sentBriefing": null,
+    "dispatchTime": null,
+    "briefing": "zdfvadfadfadfadfgtrqetrqetfrqe"
     }
   ],
-  "addressList": [
+  "naologado": [
     {
-      "fullName": "João Santos",
-      "address": "Alameda Barão de limeiray",
-      "postalCode": "02813-020",
-      "id": 2
-    },
-    {
-      "fullName": "Ana ferraz",
-      "address": "Pirituba",
-      "postalCode": "03678-952",
-      "id": 3
-    },
-    {
-      "fullName": "Novo cadastro",
-      "address": "Taipas",
-      "postalCode": "02813-960",
-      "id": 4
+    "status": "FACEBOOKADS_ERROR_UNESPECTED",
+    "message": "Usuario nao logado.",
+    "content": null
     }
   ],
-  "orderhistory": [
+  "seminscription": [
     {
-      "id":1,
-      "productName": "Cueca Kalvin Klein",
-      "productDescription": "Kit 3pçs Cuecas Calvin Klein Underwear Boxer Preto",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/Calvin-Klein-Underwear-Kit-3p%C3%A7s-Cuecas-Calvin-Klein-Underwear-Boxer-Preto-7524-6145071-1-related.jpg",
-      "purchaseDate": "23 Mai 2018"
-    },
-    {
-      "id":2,
-      "productName": "Mochila",
-      "productDescription": "Mochila Quiksilver Mini Night Track Azul",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/Quiksilver-Mochila-Quiksilver-Mini-Night-Track-Azul-7557-2851681-1-related.jpg",
-      "purchaseDate": "01 jun 2018"
-    },
-    {
-      "id":3,
-      "productName": "G-Shock",
-      "productDescription": "Relógio G-Shock DW-6900BR-5DR Marrom",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/G-Shock-Rel%C3%B3gio-G-Shock-DW-6900BR-5DR-Marrom-1216-6617831-1-related.jpg",
-      "purchaseDate": "05 fev 2017"
-    },
-    {
-      "id":4,
-      "productName": "FiveBlu",
-      "productDescription": "Bota FiveBlu Amarela",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/FiveBlu-Bota-FiveBlu-Amarela-0177-0854561-1-related.jpg",
-      "purchaseDate": "28 Mai 2018"
-    }            
-  ],
-  "wishlist": [
-    {
-      "id":1,
-      "productName": "Cueca Kalvin Klein",
-      "productDescription": "Kit 3pçs Cuecas Calvin Klein Underwear Boxer Preto",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/Calvin-Klein-Underwear-Kit-3p%C3%A7s-Cuecas-Calvin-Klein-Underwear-Boxer-Preto-7524-6145071-1-related.jpg",
-      "purchaseDate": "23 Mai 2018"
-    },
-    {
-      "id":2,
-      "productName": "Mochila",
-      "productDescription": "Mochila Quiksilver Mini Night Track Azul",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/Quiksilver-Mochila-Quiksilver-Mini-Night-Track-Azul-7557-2851681-1-related.jpg",
-      "purchaseDate": "01 jun 2018"
-    },
-    {
-      "id":3,
-      "productName": "G-Shock",
-      "productDescription": "Relógio G-Shock DW-6900BR-5DR Marrom",
-      "productImages": "https://dafitistatic-a.akamaihd.net/p/G-Shock-Rel%C3%B3gio-G-Shock-DW-6900BR-5DR-Marrom-1216-6617831-1-related.jpg",
-      "purchaseDate": "05 fev 2017"
-    }          
+    "status": "FACEBOOKADS_ERROR_UNESPECTED",
+    "message": "Nenuma inscription autorizada encontrada",
+    "content": null
+    }         
   ]      
 }
